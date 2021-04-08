@@ -1,0 +1,84 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>230.5</HistMax>
+        <BucketCount>231</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|11635|39742|115671|45006|0|0|0|0|0|0|0|0|0|0|0|0|77389|89024|18129|4</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>211</F>
+        <F>11635</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>212</F>
+        <F>39742</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>213</F>
+        <F>115671</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>214</F>
+        <F>45006</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>227</F>
+        <F>77389</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>228</F>
+        <F>89024</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>229</F>
+        <F>18129</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>230</F>
+        <F>4</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">211</MDI>
+      <MDI key="STATISTICS_MAXIMUM">230</MDI>
+      <MDI key="STATISTICS_MEAN">219.78500252143</MDI>
+      <MDI key="STATISTICS_STDDEV">7.399381600731</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">54.7508480732362</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
